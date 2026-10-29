@@ -139,6 +139,6 @@ python scripts/compare_voxel_sizes.py
 
 ## 6. Tautan Pengumpulan
 
-* **Video 1 (Demo Proses Mapping):** [Tempelkan Link YouTube / Google Drive Video Proses]
-* **Video 2 (Demo Hasil Rekonstruksi 3D):** [Tempelkan Link YouTube / Google Drive Video Hasil 3D]
-* **Repositori GitHub:** [Tempelkan Link GitHub Repository]
+* **Video (https://drive.google.com/drive/folders/1vakVmaOmMzkNM4MVdnj-l-xGzTtBnzIg?usp=sharing)
+  
+
